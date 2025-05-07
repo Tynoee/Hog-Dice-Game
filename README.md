@@ -3,14 +3,14 @@ A simple turn-based dice game where players roll dice to accumulate points. The 
 
 <img scr = "hog.png" height="500" height="500">
 
-##🚀 Features
+## 🚀 Features
 
 - Turn-Based Gameplay: Players alternate turns, rolling dice to accumulate points.
 - Hold Mechanism: Players can choose to "hold" to bank their points or continue rolling.
 - Risk vs. Reward: Decide whether to risk rolling again or secure your points.
 - Game Over Condition: The game ends when a player reaches 100 points.
 
-##🧪 Testing
+## 🧪 Testing
 Automated tests can be run using the provided autograder.py script.
 
 ```bash
