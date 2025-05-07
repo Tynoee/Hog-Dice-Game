@@ -1,6 +1,8 @@
 # Hog-Dice-Game
 A simple turn-based dice game where players roll dice to accumulate points. The goal is to reach 100 points first. Players can choose to "hold" to bank their points or risk rolling again. The game includes basic rules, player turn management, and scoring logic. 
 
+<img scr = "hog.png" height="500" height="500">
+
 ##🚀 Features
 
 - Turn-Based Gameplay: Players alternate turns, rolling dice to accumulate points.
@@ -11,5 +13,5 @@ A simple turn-based dice game where players roll dice to accumulate points. The 
 ##🧪 Testing
 Automated tests can be run using the provided autograder.py script.
 
-bash```
+```bash
 python autograder.py
